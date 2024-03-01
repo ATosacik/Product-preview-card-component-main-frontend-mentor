@@ -20,6 +20,9 @@ Users should be able to:
 
 ### Screenshot
 
+![Screenshot 2024-02-28 at 12-30-53 Frontend Mentor Product preview card component](https://github.com/ATosacik/Product-preview-card-component-main-frontend-mentor/assets/111382391/c99c79e9-623a-4cd9-b136-fb81e66b02d4)
+![Screenshot 2024-02-28 at 12-30-40 Frontend Mentor Product preview card component](https://github.com/ATosacik/Product-preview-card-component-main-frontend-mentor/assets/111382391/9e50a217-4980-46cf-8f2c-3b6f448c046f)
+
 ## My process
 
 ### Built with
